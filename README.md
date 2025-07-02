@@ -94,7 +94,7 @@ python showdown_scraper.py --in-file ids.txt --out-file results.json
 
   Example:
 
-  ```json
+  ```
   [
     {
       "id": "gen9ou-2395706971",
