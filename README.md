@@ -1,4 +1,8 @@
-Install conda and install requirements
+Install conda and install requirements using
+
+```console
+conda env create -f environment.yml
+```
 
 ## Example Workflow
 
