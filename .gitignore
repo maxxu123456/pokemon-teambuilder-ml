@@ -1,2 +1,4 @@
 ids.txt
 results.json
+.vscode
+__pycache__
