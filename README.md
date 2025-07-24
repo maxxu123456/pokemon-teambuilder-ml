@@ -31,3 +31,8 @@ Example:
 ```console
 python predict.py --team Pidgey Rattata Ekans Geodude Machop Blissey --model_path data/run5-100pages-allgens/model.pth
 ```
+
+## Docker
+```console
+docker run ghcr.io/maxxu123456/pokemon-teambuilder-ml:1.0.0 --team Pidgey Rattata Geodude Machop Blissey Ekans
+```
