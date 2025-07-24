@@ -33,6 +33,8 @@ python predict.py --team Pidgey Rattata Ekans Geodude Machop Blissey --model_pat
 ```
 
 ## Docker
+You can run inference on a pretrained model using this:
+
 ```console
 docker run ghcr.io/maxxu123456/pokemon-teambuilder-ml:1.0.0 --team Pidgey Rattata Geodude Machop Blissey Ekans
 ```
